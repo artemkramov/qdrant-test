@@ -1,1 +1,1 @@
-# qdrant-test
+# Tests for QDrant
